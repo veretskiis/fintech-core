@@ -1,0 +1,8 @@
+.python-version
+.env
+*local_settings.py
+.mypy_cache/
+*.pyc
+*.db
+*.pid
+.idea
